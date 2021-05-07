@@ -1,3 +1,10 @@
+//add remote to local
 git fetch 
 git merge 
 git pull // fetch + merge
+
+//Clone remote to local
+git clone projectLink
+
+
+git remote -v
